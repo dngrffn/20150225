@@ -1,0 +1,12 @@
+/*general*/
+body {
+	font-family: 'Cabin', sans-serif;
+	padding:20px;
+}
+
+.test_item {
+	background-color: grey;
+	padding:10px;
+	margin-bottom:10px;
+	border-radius: 5px;
+}
